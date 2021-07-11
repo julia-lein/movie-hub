@@ -1,4 +1,11 @@
-# movie-hub
+# movie-hub app
+
+Group Project
+
+- React
+- Reactstrap, CSS
+- TMDB Movies API
+
 
 # Getting Started with Create React App
 
